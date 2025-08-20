@@ -1,21 +1,4 @@
-
-
-<!--
-**shad0vv001/shad0vv001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 这是一个注释，在预览中不会显示。你可以用它来给自己做笔记。 -->
-
+<!--最后更新于2025.8.20-->
 # 👋 Hello, World! I'm [shad0vv]
 
 > **🎯 [ junior high school students]** | **🌐 [ Chongqing China]**
@@ -52,10 +35,8 @@ A dreamer who plans to develop independent games in the future.
 ## 📊 GitHub Stats
 
 <!-- 动态生成你的 GitHub 统计信息 -->
-![shad0w's GitHub stats](https://github-readme-stats.vercel.app/apishad0vv001YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/shad0vv001YOUR_USERNAME&layout=compact&theme=radical)
-
+![shad0vv001's GitHub stats](https://github-readme-stats.vercel.app/api?username=shad0vv001&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shad0vv001&layout=compact&theme=radical)
 ---
 
 ## 🌟 Featured Projects
@@ -71,18 +52,28 @@ A dreamer who plans to develop independent games in the future.
 
 **When I'm not coding, you can probably find me here:**
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
-[![The Legend of Zelda: Breath of the Wild](https://img.shields.io/badge/Zelda:%20Breath%20of%20the%20Wild-5BAD2F?style=for-the-badge&logo=zelda&logoColor=white)](https://www.zelda.com/breath-of-the-wild/)
+<a href="https://www.minecraft.net/"><img src="https://img.icons8.com/color/48/000000/minecraft-logo.png" width="40" title="Minecraft"/></a>
+
+<a href="https://www.zelda.com/breath-of-the-wild/">
+  <img src="https://img.icons8.com/color/48/000000/zelda.png" width="40" title="The Legend of Zelda: Breath of the Wild"/>
+</a>
+
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/steam.svg" width="32" />  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nintendoswitch.svg" width="32" />
+
+
+<!--[![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
 [![Genshin Impact](https://img.shields.io/badge/Genshin_Impact-5BAD2F?style=for-the-badge&logo=genshinimpact&logoColor=white)](https://genshin.hoyoverse.com/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
 [![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white)](https://www.nintendo.com/switch/)
 [![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://www.playstation.com/)
-[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-thebadge&logo=xbox&logoColor=white)](https://www.xbox.com/)
+[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/)
 [![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
 [![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://www.netflix.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/)
+-->
 
 
 
@@ -97,9 +88,10 @@ If we have similar interests, we can become friends.
 ---
 
 <!-- 一个有趣的小尾巴 -->
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=shad0vv001&color=blueviolet&style=flat-square)
 
 *README.md ROAD WORK AHEAD!STOP! 🚧*
 
 
-A humble statement: Although I know that writing this self-introduction is not very useful, I hope to find people who share the same resonance with me through it.
+
+<span style="font-size: 10px; color: gray;">A humble statement: Although I know that writing this self-introduction is not very useful, I hope to find people who share the same resonance with me through it.</span>
