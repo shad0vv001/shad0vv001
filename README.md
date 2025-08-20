@@ -67,6 +67,24 @@ A dreamer who plans to develop independent games in the future.
 - [**🔧 Project Three**](https://github.com/your-username/project-three) - 一个简洁高效的库或脚本。
 -->
 ---
+## 🎮 Entertainment & Games
+
+**When I'm not coding, you can probably find me here:**
+
+[![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
+[![The Legend of Zelda: Breath of the Wild](https://img.shields.io/badge/Zelda:%20Breath%20of%20the%20Wild-5BAD2F?style=for-the-badge&logo=zelda&logoColor=white)](https://www.zelda.com/breath-of-the-wild/)
+[![Genshin Impact](https://img.shields.io/badge/Genshin_Impact-5BAD2F?style=for-the-badge&logo=genshinimpact&logoColor=white)](https://genshin.hoyoverse.com/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
+[![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white)](https://www.nintendo.com/switch/)
+[![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://www.playstation.com/)
+[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-thebadge&logo=xbox&logoColor=white)](https://www.xbox.com/)
+[![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+[![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://www.netflix.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/)
+
+
 
 ## 📫 How to Reach Me
 
@@ -82,3 +100,6 @@ If we have similar interests, we can become friends.
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
 
 *README.md ROAD WORK AHEAD!STOP! 🚧*
+
+
+A humble statement: Although I know that writing this self-introduction is not very useful, I hope to find people who share the same resonance with me through it.
