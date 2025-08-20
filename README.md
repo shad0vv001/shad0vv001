@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- 这是一个注释，在预览中不会显示。你可以用它来给自己做笔记。 -->
 
-# 👋 Hello, World! I'm [fall]
+# 👋 Hello, World! I'm [shad0vv]
 
 > **🎯 [ junior high school students]** | **🌐 [ Chongqing China]**
 
@@ -52,9 +52,9 @@ A dreamer who plans to develop independent games in the future.
 ## 📊 GitHub Stats
 
 <!-- 动态生成你的 GitHub 统计信息 -->
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![shad0w's GitHub stats](https://github-readme-stats.vercel.app/apishad0vv001YOUR_USERNAME&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/shad0vv001YOUR_USERNAME&layout=compact&theme=radical)
 
 ---
 
@@ -69,6 +69,8 @@ A dreamer who plans to develop independent games in the future.
 ---
 
 ## 📫 How to Reach Me
+
+If we have similar interests, we can become friends.
 
 - **LinkedIn:** [Waiting](https://linkedin.com/in/your-profile)
 - **Email:** shad0vv001@outlook.com
