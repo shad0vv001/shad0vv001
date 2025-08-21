@@ -1,4 +1,4 @@
-<!--最后更新于2025.8.20-->
+<!--最后更新于2025.8.21-->
 # 👋 Hello, World! I'm [shad0vv]
 
 > **🎯 [ junior high school students]** | **🌐 [ Chongqing China]**
@@ -53,13 +53,11 @@ A dreamer who plans to develop independent games in the future.
 **When I'm not coding, you can probably find me here:**
 
 <a href="https://www.minecraft.net/"><img src="https://img.icons8.com/color/48/000000/minecraft-logo.png" width="40" title="Minecraft"/></a>
-
 <a href="https://www.zelda.com/breath-of-the-wild/">
-  <img src="https://img.icons8.com/color/48/000000/zelda.png" width="40" title="The Legend of Zelda: Breath of the Wild"/>
-</a>
+<a href="https://store.steampowered.com/"><img src="https://img.icons8.com/color/48/000000/steam.png" width="40" title="Steam"/></a>
+<a href="https://www.nintendo.com/switch/"><img src="https://img.icons8.com/color/48/000000/nintendo-switch.png" width="40" title="Nintendo Switch"/></a>
+<a href="https://www.zelda.com/breath-of-the-wild/"><img src="https://img.icons8.com/color/48/000000/zelda.png" width="40" title="Zelda"/></a>
 
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/steam.svg" width="32" />  
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nintendoswitch.svg" width="32" />
 
 
 <!--[![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
@@ -92,6 +90,4 @@ If we have similar interests, we can become friends.
 
 *README.md ROAD WORK AHEAD!STOP! 🚧*
 
-
-
-<span style="font-size: 10px; color: gray;">A humble statement: Although I know that writing this self-introduction is not very useful, I hope to find people who share the same resonance with me through it.</span>
+> _A humble statement: Although I know that writing this self-introduction is not very useful, I hope to find people who share the same resonance with me through it._
